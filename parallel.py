@@ -5,7 +5,7 @@ from utils import *
 
 # Defined problem sizes
 # 0: 100x100 grid & 10k wordlist
-# 1: 1000x1000 grid & 10k wordlist
+# 1: 1000x1000 grid & 100k wordlist
 # 2: 10000x10000 grid & 1m wordlist
 
 # Change the value of PROBLEM_SIZE to select the desired problem size
